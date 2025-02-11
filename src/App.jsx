@@ -138,13 +138,13 @@ const App = () => {
               >
                 Xnote may display inaccurate info, including about people, so
                 double-check its responses.
-                <a
+                {/* <a
                   href='https://support.google.com/gemini?p=privacy_notice'
                   target='_blank'
                   className='inline underline ms-1'
                 >
-                  Your privacy & Gemini Apps
-                </a>
+                  Your privacy
+                </a> */}
               </motion.p>
             </div>
           </div>
