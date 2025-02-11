@@ -106,7 +106,7 @@ const ResetLink = () => {
           />
 
           <p className='absolute bottom-10 left-12 right-12 z-10 text-displayLarge font-semibold leading-tight text-right text-light-onSurface drop-shadow-sm 2xl:text-[72px]'>
-            Chat with Phoenix to supercharge your ideas.
+            Chat with Xnote to supercharge your ideas.
           </p>
         </div>
       </div>

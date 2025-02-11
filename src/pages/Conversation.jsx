@@ -40,7 +40,7 @@ const Conversation = () => {
   return (
     <>
       {/* Meta title */}
-      <PageTitle title={`${title} | Phoenix`} />
+      <PageTitle title={`${title} | Xnote`} />
 
       <motion.div
         className='max-w-[700px] mx-auto !will-change-auto'

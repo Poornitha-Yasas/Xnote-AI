@@ -134,7 +134,7 @@ const AiResponse = ({ aiResponse, children }) => {
           src={iconLogo}
           width={32}
           height={32}
-          alt='Phoenix logo'
+          alt='Xnote logo'
         />
       </figure>
 

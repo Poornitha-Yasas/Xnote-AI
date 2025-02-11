@@ -24,7 +24,7 @@ const Logo = ({ classes = '' }) => {
         src={logoLight}
         width={133}
         height={24}
-        alt='phoenix logo'
+        alt='xnote logo'
         className='dark:hidden'
       />
 
@@ -32,7 +32,7 @@ const Logo = ({ classes = '' }) => {
         src={logoDark}
         width={133}
         height={24}
-        alt='phoenix logo'
+        alt='xnote logo'
         className='hidden dark:block'
       />
     </Link>

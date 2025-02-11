@@ -98,7 +98,7 @@ const App = () => {
   return (
     <>
       {/* Meta title */}
-      <PageTitle title='Phoenix - chat to supercharge your ideas' />
+      <PageTitle title='Xnote - chat to supercharge your ideas' />
 
       <div className='lg:grid lg:grid-cols-[320px,1fr]'>
         {/* Sidebar */}
@@ -136,7 +136,7 @@ const App = () => {
                 transition={{ duration: 0.2, delay: 0.8, ease: 'easeOut' }}
                 className='text-bodySmall text-center text-light-onSurfaceVariant dark:text-dark-onSurfaceVariant p-3'
               >
-                Phoenix may display inaccurate info, including about people, so
+                Xnote may display inaccurate info, including about people, so
                 double-check its responses.
                 <a
                   href='https://support.google.com/gemini?p=privacy_notice'
